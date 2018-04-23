@@ -1,0 +1,2 @@
+# Workshop5
+Using data on states, I made a function that measures the total area of the states. I then made a function that finds the total population of the states. I then made a function that measures the population density of each state. I then made a function that computes the average population density of the entire country. My last function goes through each state and says whether that state has a population density that is less than or more than the national average.
